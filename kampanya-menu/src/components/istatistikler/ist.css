@@ -1,0 +1,24 @@
+.baslik3 {
+    border-color: rgb(255, 255, 255);
+    height: 80px;
+    border-radius: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+  }
+  .yazi2 {
+    padding-top: 5px;
+    padding-left: 120px;
+    color: rgb(255, 255, 255);
+  }
+  .bnt5 {
+    padding-left: 0px;
+    padding-top: -60px;
+  }
+  .img6 {
+    height: 80px;
+    justify-content: "center";
+    align-items: "center";
+    border-radius: 0px;
+    padding-top: 0px;
+  }
+  

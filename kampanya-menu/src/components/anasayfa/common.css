@@ -1,0 +1,137 @@
+.myImage {
+  width: 400px;
+  height: 240px;
+  justify-content: "center";
+  align-items: "center";
+  padding-left: 15px;
+}
+.myColor {
+  background-color: #f5f1f1;
+  padding-top: 10px;
+}
+.kmp {
+  padding-left: 20;
+}
+.exdiv{  
+  padding: 10px;
+}
+.img2{
+  width: 424px;
+  height: 270px;
+  justify-content: "center";
+  align-items: "center";
+}
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.name{
+  padding-top: 10px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.name2{
+  padding-top: 15px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+.name3{
+  padding-top: 5px;
+  
+  text-align: center;
+  font-size: 12px;
+  font-weight: 600;
+}
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  left: 20px;
+  top: 20px;
+  color:white;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: #ffffff;
+}
+
+/* Color/shape of burger icon bars on hover*/
+.bm-burger-bars-hover {
+  background: #a90000;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #bdc3c7;
+}
+
+/*
+Sidebar wrapper styles
+Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
+*/
+.bm-menu-wrap {
+  position: fixed;
+  height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background:#205296;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #ffffff;
+  padding: 0.8em;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(255, 255, 255, 0.3);
+}
+.menu-item{
+  color:#ffffff;
+}
+
+.cardTitle {
+  margin-left: 30px;
+  margin-top: 12px;
+  font-weight:600;
+  color:#205296 ;
+}
+
+
+.cardTitle2 {
+  margin-left: 30px;
+  margin-top: 20px;
+  font-weight:600;
+  color:#205296 ;
+}
